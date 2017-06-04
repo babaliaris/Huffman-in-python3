@@ -13,6 +13,8 @@
 
 
 ### What Is The Structure Of The Algorithm?
+Coder is the Top Level Module.
+
 * ***coder.py*** <-- **alphabet.py**, **priority_queue.py**, **node.py**, **scanner.py**
 
 * ***alphabet.py*** <-- **node.py**, **scanner.py**
