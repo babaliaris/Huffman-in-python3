@@ -13,10 +13,8 @@
 
 
 ### What Is The Structure Of The Algorithm?
-* coder.py
+* coder.py <-- alphabet.py, priority_queue.py, node.py, scanner.py
 
+* alphabet.py <-- node.py, scanner.py
 
-
-    alphabet.py
-
-    priority_queue.py
+* priority_queue.py <-- node.py
