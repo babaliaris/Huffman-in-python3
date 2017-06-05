@@ -1,5 +1,9 @@
 # Huffman-in-python3
 
+
+***Please note that this algoritm is just a test i did to learn how to create the huffman algorithm, so it's quit slow.
+For files more than 1 mb, the decompression process with take ages!!!***
+
 ### Requirements:
 * Python3
 
